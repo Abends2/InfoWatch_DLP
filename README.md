@@ -1,3 +1,3 @@
 # InfoWatch_DLP__old
 
-![ScreenShot](screenshots/0.png)
+![ScreenShot](InfoWatch__old/screenshots/0.png)
