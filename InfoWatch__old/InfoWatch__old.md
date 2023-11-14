@@ -113,25 +113,23 @@ Eсли VMnet10 уже существует нажимаем кнопку «Во
 
 Добавляем iwdm-rootв группы пользователей:
 
-![ScreenShot](screenshots/20.png)
+![ScreenShot](screenshots/21.png)
 
 #### 2.3 Настройка NTP сервера на win\_serv
 
 Открываем редактор групповой политики (**gpedit.msc**). Находим директорию по пути: Конфигурация компьютера → Административные шаблоны → Система → Служба времени Windows.
 
-![ScreenShot](screenshots/21.png)
+![ScreenShot](screenshots/22.png)
 
 Меняем глобальные параметры конфигурации **AnnounceFlags = 5**
 
-![ScreenShot](screenshots/22.png)
+![ScreenShot](screenshots/23.png)
 
 Заходим в поставщики времени:
 
-![ScreenShot](screenshots/23.png)
+![ScreenShot](screenshots/24.png)
 
 Включаем NTP-сервер:
-
-![ScreenShot](screenshots/24.png)
 
 ![ScreenShot](screenshots/25.png)
 
