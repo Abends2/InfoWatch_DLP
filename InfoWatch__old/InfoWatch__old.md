@@ -74,6 +74,8 @@ Eсли VMnet10 уже существует нажимаем кнопку «Во
 
 ![ScreenShot](screenshots/14.png)
 
+![ScreenShot](screenshots/15.png)
+
 > Не забудьте поставить галочку "Подтвердить параметры при выходе"
 
 #### 2.2 Настройка Active Directory
@@ -91,23 +93,23 @@ Eсли VMnet10 уже существует нажимаем кнопку «Во
 
 Создаем подразделения:
 
-![ScreenShot](screenshots/15.png)
+![ScreenShot](screenshots/16.png)
 
 Добавляем пользователей:
 
-![ScreenShot](screenshots/16.png)
+![ScreenShot](screenshots/17.png)
 
 Вводим имя пользователя и имя для входа в систему:
 
-![ScreenShot](screenshots/17.png)
+![ScreenShot](screenshots/18.png)
 
 Вводим пароль и ставим галочку «Срок действия пароля не ограничен»:
 
-![ScreenShot](screenshots/18.png)
+![ScreenShot](screenshots/19.png)
 
 Выдаем права пользователям:
 
-![ScreenShot](screenshots/19.png)
+![ScreenShot](screenshots/20.png)
 
 Добавляем iwdm-rootв группы пользователей:
 
