@@ -505,20 +505,20 @@
 
 ![ScreenShot](screenshots/138.png)
 
-![ScreenShot](screenshots/139.png)
-
 Следующим шагом необходимо применить конфигурацию в Traffic Monitor
 
-![ScreenShot](screenshots/140.png)
+![ScreenShot](screenshots/139.png)
 
 ---
 ### 3. Проверка работоспособности
 
 После настроек политик безопасности необходимо проверить работоспособность. Первой политикой защиты данных на агентах было правило копирования паспортных данных на съемный носитель и со съемного носителя. Нарушив данную политику на машине клиента, появляется уведомление от Device Monitor
 
-![ScreenShot](screenshots/141.png)
+![ScreenShot](screenshots/140.png)
 
 Далее нужно проверить отчет в Device Monitor
+
+![ScreenShot](screenshots/141.png)
 
 ![ScreenShot](screenshots/142.png)
 
